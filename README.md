@@ -8,8 +8,9 @@ This project aims to revolutionize the grocery delivery landscape by implementin
 <img src="./System Design/class_diagram.png" alt="class_diagram" title="class_diagram">
 
 ### Sequence Diagram
-   ![sequence_diagram1](./System\ Design/sequence_diagram1.png)
-   ![sequence_diagram2](./System\ Design/sequence_diagram2.png)
+<img src="./System Design/sequence_diagram1.png" alt="sequence_diagram1" title="sequence_diagram1">
+<img src="./System Design/sequence_diagram2.png" alt="sequence_diagram2" title="sequence_diagram2">
+
 
 
 ### Scalable Drone-Order Assignment
