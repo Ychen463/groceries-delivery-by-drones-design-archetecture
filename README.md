@@ -31,9 +31,11 @@ This project aims to revolutionize the grocery delivery landscape by implementin
 1. Clone the repository
    ```bash
    git clone https://github.com/Ychen463/groceries-delivery-by-drones-design-archetecture.git# To Install Docker go to:
-```
-https://docs.docker.com/get-docker/
-```
+   ```
+2. Docker
+   ```bash
+   https://docs.docker.com/get-docker/
+   ```
 
 # Note please run all scripts from the project root directory
 
