@@ -1,5 +1,36 @@
-A3 Repo for CS6310 Fall 2021
-# To Install Docker go to:
+# Drone-Based Grocery Delivery System
+
+## Overview
+
+This project aims to revolutionize the grocery delivery landscape by implementing a drone-based delivery system. With a focus on scalability and security, the system leverages serverless architecture and robust authentication mechanisms.
+
+![System Architecture](./System/system-architecture.png)
+
+## Features
+
+### Scalable Drone-Order Assignment
+- **Dynamic Order Assignment**: Drones are assigned to orders only when they are ready for delivery.
+- **Location-based Loading**: Orders are grouped by zip codes to optimize drone routes.
+
+### Serverless Architecture
+- **AWS Lambdas**: Individual lambda functions for each system operation.
+- **API Gateway**: A single gateway to route system operations and trigger lambdas.
+
+### Robust Security
+- **Multi-Factor Authentication (MFA)**: Enhanced security at the user level.
+- **Role-based Access**: Different access levels for customers and employees.
+
+## Getting Started
+
+### Prerequisites
+- AWS Account
+- Node.js
+- Serverless Framework
+
+### Installation
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Ychen463/groceries-delivery-by-drones-design-archetecture.git# To Install Docker go to:
 ```
 https://docs.docker.com/get-docker/
 ```
