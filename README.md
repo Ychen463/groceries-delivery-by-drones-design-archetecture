@@ -4,9 +4,14 @@
 
 This project aims to revolutionize the grocery delivery landscape by implementing a drone-based delivery system. With a focus on scalability and security, the system leverages serverless architecture and robust authentication mechanisms.
 
-![System Architecture](./System/system-architecture.png)
+### Class Diagram
+<img src="./System Design/class_diagram.png" alt="class_diagram" title="class_diagram">
 
-## Features
+### Sequence Diagram
+<img src="./System Design/sequence_diagram1.png" alt="sequence_diagram1" title="sequence_diagram1">
+<img src="./System Design/sequence_diagram2.png" alt="sequence_diagram2" title="sequence_diagram2">
+
+
 
 ### Scalable Drone-Order Assignment
 - **Dynamic Order Assignment**: Drones are assigned to orders only when they are ready for delivery.
